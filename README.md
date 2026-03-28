@@ -1,7 +1,3 @@
-import pypandoc
-
-content = """# 🧠 MindForge AI – AI-Based Doubt Clarifier
-
 ## 📌 Overview
 **MindForge AI** is a Generative AI-powered learning assistant designed to improve conceptual understanding rather than promote rote learning. Unlike traditional AI tools that provide direct answers, MindForge guides students through step-by-step reasoning, helping them think critically and solve problems independently.
 
