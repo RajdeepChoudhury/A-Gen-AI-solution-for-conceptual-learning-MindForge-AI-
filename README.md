@@ -26,7 +26,7 @@ git clone https://github.com/your-username/mindforge-ai.git
 cd mindforge-ai  
 
 ### 2. Run the Project
-Open `https://coachmindforgeai.netlify.app` in your browser.
+Open https://coachmindforgeai.netlify.app in your browser.
 
 ---
 
